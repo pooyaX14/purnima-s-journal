@@ -13,10 +13,11 @@ html {
     padding: 0;
     height: 100%;
 }
-.top-paragraph {
+.header {
 	border-bottom: 1px solid #111877;
 	margin-bottom: 20px;
 	padding: 20px;
+	font-size: 25px;
 }
 
 .author, .date {
